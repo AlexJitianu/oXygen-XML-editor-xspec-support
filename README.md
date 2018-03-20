@@ -3,6 +3,10 @@
 
 An oxygen XML Editor plugin intended to help those that create XSpec scenarios.
 
+========
+# The project was moved and it is currently maintained on the XSpec GitHub page. You will find newer versions there:
+https://github.com/xspec/oXygen-XML-editor-xspec-support/
+
 
 Install as Add-On
 -----------------
